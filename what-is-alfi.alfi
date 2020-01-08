@@ -1,4 +1,6 @@
 = window label "ALFI"
++ anchor label "Back" link "http://www.blunder.se/" "text/alfi"
++ divider
 + header label "ALFI"
 + text label "ALFI is a query language for graphical user interfaces."
 + text label "ALFI works in a similar way to SQL but instead of talking to a database you talk to an ALFI client (or ALFI browser). The ALFI browser will convert the ALFI queries into graphical elements (i.e. widgets) and render them on the screen."
