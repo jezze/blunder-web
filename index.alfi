@@ -4,6 +4,7 @@
 + subheader label "Articles"
 + anchor label "What is ALFI?" link "http://www.blunder.se/what-is-alfi.alfi" "text/alfi"
 + anchor label "Documentation" link "http://www.blunder.se/documentation.alfi" "text/alfi"
++ anchor label "Help" link "http://www.blunder.se/help.alfi" "text/alfi"
 + subheader label "Demos"
 + text label "Here are some sites made using ALFI"
 + anchor label "Demo" link "http://www.blunder.se/demo.alfi" "text/alfi"

@@ -1,0 +1,20 @@
+= window label "Help"
++ anchor label "Back" link "http://www.blunder.se/" "text/alfi"
++ divider
++ header label "Help"
++ text label "These are some of the things you could help out with."
++ subheader label "General (smaller)"
++ list id generals
++ text in generals label "Create your own ALFI website and help expand the ALFI userbase! Then send an email to jens.nyberg@gmail.com and tell me about it and I might feature it on the website!"
++ subheader label "General (bigger)"
++ list id generalb
++ text in generalb label "Create an ALFI renderer for another browser."
++ list id generalb1 in generalb
++ text in generalb1 label "Webkit (Chromium)"
++ text in generalb1 label "Gecko (Firefox)"
++ subheader label "ALFI"
++ list id alfi
++ text in alfi label "Add new widgets and attributes to add."
++ subheader label "NAVI"
++ list id navi
++ text in navi label "Add a video widget"
