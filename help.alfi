@@ -2,19 +2,24 @@
 + anchor label "Back" link "http://www.blunder.se/" "text/alfi"
 + divider
 + header label "Help"
-+ text label "These are some of the things you could help out with."
-+ subheader label "General (smaller)"
-+ list id generals
-+ text in generals label "Create your own ALFI website and help expand the ALFI userbase! Then send an email to jens.nyberg@gmail.com and tell me about it and I might feature it on the website!"
-+ subheader label "General (bigger)"
-+ list id generalb
-+ text in generalb label "Create an ALFI renderer for another browser."
-+ list id generalb1 in generalb
-+ text in generalb1 label "Webkit (Chromium)"
-+ text in generalb1 label "Gecko (Firefox)"
-+ subheader label "ALFI"
-+ list id alfi
-+ text in alfi label "Add new widgets and attributes to add."
-+ subheader label "NAVI"
-+ list id navi
-+ text in navi label "Add a video widget"
++ text label "So you feel like you want to help out? Great! There are plenty of things I need help with. Take a look at the list below."
++ subheader label "Create an ALFI website"
++ text label "This is something almost anyone can do and it will help to expand the ALFI universe."
++ text label "When you have created your website send me an email at jens.nyberg@gmail.com and tell me about it and I might feature it on this website!"
++ subheader label "Add widgets and attributes"
++ list id widgetlist
++ text in widgetlist label "Add code block [in progress]"
++ text in widgetlist label "Add audio [in progress]"
++ text in widgetlist label "Add video [in progress]"
++ subheader label "NAVI Development"
++ list id navilist
++ text in navilist label "Add FFMPEG support. This will allow for video and audio widgets [in progress]"
++ text in navilist label "Port NAVI to Windows [not started]"
++ text in navilist label "Port NAVI to MacOS [not started]"
++ text in navilist label "Port NAVI to Android [not started]"
++ text in navilist label "Port NAVI to iPhone [not started]"
++ subheader label "3rd party support"
++ text label "Add support for ALFI in another render engine for another browser."
++ list id 3rdpartylist
++ text in 3rdpartylist label "Webkit (Chromium) [not started]"
++ text in 3rdpartylist label "Gecko (Firefox) [not started]"
