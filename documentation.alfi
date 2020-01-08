@@ -1,0 +1,5 @@
+= window label "ALFI documentation"
++ anchor label "Back" link "http://www.blunder.se/" "text/alfi"
++ header label "ALFI documentation"
++ text label "This is the documentation for ALFI."
++ subheader label "Widget: Text"

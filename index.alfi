@@ -1,0 +1,7 @@
+= window label "blunder.se"
++ header label "Welcome to the first ever alfi website"
++ text label "Contents:"
++ anchor label "What is alfi?" link "http://www.blunder.se/what-is-alfi.alfi" "text/alfi"
++ anchor label "Documentation" link "http://www.blunder.se/documentation.alfi" "text/alfi"
++ anchor label "Demo" link "http://www.blunder.se/demo.alfi" "text/alfi"
++ anchor label "MFW" link "http://www.blunder.se/mfw.alfi" "text/alfi"
