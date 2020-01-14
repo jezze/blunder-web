@@ -1,6 +1,4 @@
 = window label "This is a motherfucking website."
-+ anchor label "Back" link "http://www.blunder.se/" "text/alfi"
-+ divider
 + header label "This is a motherfucking website."
 + text label "And it's fucking perfect."
 + subheader label "Seriously, what the fuck else do you want?"

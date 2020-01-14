@@ -1,6 +1,4 @@
 = window label "Help"
-+ anchor label "Back" link "http://www.blunder.se/" "text/alfi"
-+ divider
 + header label "Help"
 + text label "So you feel like you want to help out? Great! There are plenty of things I need help with. Take a look at the list below."
 + subheader label "Create an ALFI website"
