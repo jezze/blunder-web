@@ -1,4 +1,4 @@
 = window label "ALFI demo"
 + header label "ALFI demo"
 + text label "This time you click the link it will add content."
-+ anchor label "Click me" link "http://www.blunder.se/demo-text.alfi" "text/alfi" target "self"
++ anchor label "Click me" link "demo-text.alfi" "text/alfi" target "self"

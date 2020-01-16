@@ -1,4 +1,4 @@
 = window label "Page Missing"
 + header label "Page Missing"
 + text label "Sorry this page seems to be missing."
-+ anchor label "Back" link "http://www.blunder.se/" "text/alfi"
++ anchor label "Back" link "/" "text/alfi"
