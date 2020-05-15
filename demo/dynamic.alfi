@@ -1,0 +1,4 @@
+= window label "Demo: Dynamic"
++ header label "Demo: Dynamic"
++ text label "Click the button to add text."
++ anchor label "Click me" link "dynamic-text.alfi" "text/alfi" target "self"
