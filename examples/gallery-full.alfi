@@ -1,0 +1,4 @@
+= window label "Demo: Gallery"
++ header label "Demo: Gallery"
++ text label "A photo of a lion."
++ image link "file:///home/jfu/git/blunder/images/lion-small.jpg" "image/jpeg"
