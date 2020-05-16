@@ -1,0 +1,3 @@
+= window label "Getting started"
++ header label "Getting started"
++ text label "ALFI is a very simple language."

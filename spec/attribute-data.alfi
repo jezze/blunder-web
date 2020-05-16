@@ -2,4 +2,4 @@
 + header label "Attribute: Data"
 + text label "TODO"
 + subheader label "Syntax"
-+ text label "data <content>"
++ code label "data <content>"

@@ -3,7 +3,7 @@
 + subheader label "Anchor"
 + text label "Adds a clickable hyperlink to the page."
 + subheader label "Example"
-+ text label "+ anchor label \"Click here to go to blunder.se!\" link \"http://www.blunder.se/\" \"text/alfi\""
++ code label "+ anchor label \"Click here to go to blunder.se!\" link \"http://www.blunder.se/\" \"text/alfi\""
 + subheader label "Attributes"
 + list id attributes
 + anchor in attributes label "Id"

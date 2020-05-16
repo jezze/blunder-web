@@ -2,6 +2,6 @@
 + header label "Command: Comment (#)"
 + text label "A comment for your alfi code. It will not render anything on the page."
 + subheader label "Syntax"
-+ text label "# [<anything>]"
++ code label "# [<anything>]"
 + subheader label "Examples"
-+ text label "# This is a comment"
++ code label "# This is a comment"
