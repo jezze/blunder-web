@@ -1,0 +1,7 @@
+= window label "Command: Update (=)"
++ header label "Command: Update (=)"
++ text label "Update (=) will change an attribute of a widget on your page. In order to be able to update a widget the widget needs to have an id attribute set."
++ subheader label "Syntax"
++ text label "= <widget-id> [<widget-attribute> <widget-value>]"
++ subheader label "Examples"
++ text label "+ text id mytext label \"Hello World!\"\n= mytext label \"Goodbye World!\""
