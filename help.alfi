@@ -6,7 +6,7 @@
 + text label "This is easy and something almost anyone can do. Read the getting started page."
 + list id list1
 + anchor in list1 label "Getting started" link "getting-started.alfi" "text/alfi"
-+ text label "Once you have created your website please let me know by sending an email to jens.nyberg@gmail.com and tell me about it and I might feature it on this website!"
++ text label "Once you have created your website please let me know where I can find it. Send an email to jens.nyberg@gmail.com and provide a link. If it's cool I might feature it on the website!"
 + divider
 + subheader label "Suggest widgets and attributes"
 + text label "ALFI needs more of these. Listed below are some of the ones waiting to be added. If you have a suggestion for another type of widget let me know."
