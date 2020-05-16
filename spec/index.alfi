@@ -21,6 +21,7 @@
 + anchor in widgetlist label "Image"
 + anchor in widgetlist label "List"
 + text in widgetlist label "Map"
++ text in widgetlist label "Richtext"
 + anchor in widgetlist label "Select"
 + anchor in widgetlist label "Subheader"
 + anchor in widgetlist label "Table"

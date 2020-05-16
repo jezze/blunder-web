@@ -2,7 +2,7 @@
 + header label "Demo: Dynamic"
 + text label "Click the link to add widgets to the page."
 + divider
-+ table id buttonlist grid "02:02"
++ table id buttonlist grid "02"
 + anchor in buttonlist label "Add text" link "dynamic-text.alfi" "text/alfi" target "self"
 + anchor in buttonlist label "Add image" link "dynamic-image.alfi" "text/alfi" target "self"
 + divider

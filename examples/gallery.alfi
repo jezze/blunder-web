@@ -1,7 +1,7 @@
 = window label "Demo: Gallery"
 + header label "Demo: Gallery"
 + text label "An example photo album."
-+ table id photos grid "03:03:03:03"
++ table id photos grid "03"
 + image in photos link "http://www.blunder.se/images/ara-3601194_1920.jpg" "image/jpeg"
 + image in photos link "http://www.blunder.se/images/cat-1455468_1920.jpg" "image/jpeg"
 + image in photos link "http://www.blunder.se/images/fox-1883658_1920.jpg" "image/jpeg"
