@@ -39,5 +39,6 @@
 + anchor in attributelist label "Label" link "attribute-label.alfi" "text/alfi"
 + anchor in attributelist label "Link" link "attribute-link.alfi" "text/alfi"
 + anchor in attributelist label "Mode" link "attribute-mode.alfi" "text/alfi"
++ anchor in attributelist label "Range" link "attribute-range.alfi" "text/alfi"
 + anchor in attributelist label "Target" link "attribute-target.alfi" "text/alfi"
 + anchor in attributelist label "Type" link "attribute-type.alfi" "text/alfi"
