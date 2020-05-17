@@ -15,6 +15,7 @@
 + anchor in widgetlist label "Button" link "widget-button.alfi" "text/alfi"
 + anchor in widgetlist label "Choice" link "widget-choice.alfi" "text/alfi"
 + anchor in widgetlist label "Code" link "widget-code.alfi" "text/alfi"
++ text in widgetlist label "Datetime"
 + anchor in widgetlist label "Divider" link "widget-divider.alfi" "text/alfi"
 + anchor in widgetlist label "Field" link "widget-field.alfi" "text/alfi"
 + anchor in widgetlist label "Header" link "widget-header.alfi" "text/alfi"
