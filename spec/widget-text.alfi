@@ -1,0 +1,12 @@
+= window label "Widget: Text"
++ header label "Widget: Text"
++ subheader label "Description"
++ text label "A widget for displaying text."
++ subheader label "Example"
++ code label "+ text label \"Hello World!\""
++ text label "Hello World!"
++ subheader label "Attributes"
++ list id attributes
++ anchor in attributes label "Id" link "attribute-id.alfi" "text/alfi"
++ anchor in attributes label "In" link "attribute-in.alfi" "text/alfi"
++ anchor in attributes label "Label" link "attribute-label.alfi" "text/alfi"

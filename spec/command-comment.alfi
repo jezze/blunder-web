@@ -1,5 +1,6 @@
 = window label "Command: Comment (#)"
 + header label "Command: Comment (#)"
++ subheader label "Description"
 + text label "A comment for your alfi code. It will not render anything on the page."
 + subheader label "Syntax"
 + code label "# [<anything>]"

@@ -1,0 +1,13 @@
+= window label "Widget: List"
++ header label "Widget: List"
++ subheader label "Description"
++ text label "A widget for creating a list. The list can be either ordered or unordered."
++ subheader label "Example"
++ code label "+ list id mylist\n+ text in mylist label \"Item 1\"\n+ text in mylist label \"Item 2\""
++ list id mylist
++ text in mylist label "Item 1"
++ text in mylist label "Item 2"
++ subheader label "Attributes"
++ list id attributes
++ anchor in attributes label "Id" link "attribute-id.alfi" "text/alfi"
++ anchor in attributes label "In" link "attribute-in.alfi" "text/alfi"

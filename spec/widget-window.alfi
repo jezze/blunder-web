@@ -1,0 +1,9 @@
+= window label "Widget: Window"
++ header label "Widget: Window"
++ subheader label "Description"
++ text label "A window is a special widget which can not be created or destroyed. It is the parent widget of all other widgets."
++ subheader label "Example"
++ code label "= window label \"This is the window title\""
++ subheader label "Attributes"
++ list id attributes
++ anchor in attributes label "Label" link "attribute-label.alfi" "text/alfi"

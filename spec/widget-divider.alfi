@@ -1,0 +1,14 @@
+= window label "Widget: Divider"
++ header label "Widget: Divider"
++ subheader label "Description"
++ text label "Draws a horizontal rule"
++ subheader label "Example"
++ code label "+ divider"
++ divider
++ code label "+ divider label \"The End\""
++ divider label "The End"
++ subheader label "Attributes"
++ list id attributes
++ anchor in attributes label "Id" link "attribute-id.alfi" "text/alfi"
++ anchor in attributes label "In" link "attribute-in.alfi" "text/alfi"
++ anchor in attributes label "Label" link "attribute-label.alfi" "text/alfi"

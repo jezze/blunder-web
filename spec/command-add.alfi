@@ -1,5 +1,6 @@
 = window label "Command: Add (+)"
 + header label "Command: Add (+)"
++ subheader label "Description"
 + text label "Add (+) will add a new widget to your page."
 + subheader label "Syntax"
 + code label "+ <type> [<attributes>]"
