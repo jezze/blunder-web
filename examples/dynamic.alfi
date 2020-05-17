@@ -11,4 +11,4 @@
 + anchor in buttonlist label "Add image" link "dynamic-image.alfi" "text/alfi" target "self"
 + anchor in buttonlist label "Clear all" link "dynamic-clear.alfi" "text/alfi" target "self"
 + divider
-+ table id dyntable
++ table id dyntable grid "03"
