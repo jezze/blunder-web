@@ -1,0 +1,16 @@
+= window label "Attribute: Grid"
++ header label "Attribute: Grid"
++ subheader label "Description"
++ text label "The grid attribute describes the logic of how children of the widget will be placed."
++ text label "The format can be either NN, NNH or NNHV."
++ list id formatlist
++ text in formatlist label "NN: Describes the width of the column. This is a 2-digit number between 00 and 12"
++ text in formatlist label "H: Describes the horizontal alignment of the column. Can be either L, R or C."
++ text in formatlist label "V: Describes the vertical alignment of the column. Can be either T, B or M."
++ subheader label "Syntax"
++ code label "grid <format>"
++ list id arguments
++ text in arguments label "format: The format for the grid."
++ subheader label "Example"
++ code label "grid \"03\""
++ code label "grid \"02:04\""

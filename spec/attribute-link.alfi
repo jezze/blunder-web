@@ -1,0 +1,11 @@
+= window label "Attribute: Link"
++ header label "Attribute: Link"
++ subheader label "Description"
++ text label "The link attribute is used to reference an external resource."
++ subheader label "Syntax"
++ code label "link <url> <mime>"
++ list id arguments
++ text in arguments label "url: The URL to the resource"
++ text in arguments label "mime: The mime type of the resource"
++ subheader label "Example"
++ code label "+ anchor label \"Click me!\" link \"http://www.blunder.se/\" \"text/alfi\""

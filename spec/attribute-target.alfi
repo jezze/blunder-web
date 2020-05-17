@@ -1,0 +1,10 @@
+= window label "Attribute: Target"
++ header label "Attribute: Target"
++ subheader label "Description"
++ text label "The target attribute is used to describe the mode of redirection when clicking on an anchor or a button."
++ subheader label "Syntax"
++ code label "target <type>"
++ list id arguments
++ text in arguments label "type: The type can be self or blank"
++ subheader label "Example"
++ code label "+ link label \"Click!\" target \"self\""

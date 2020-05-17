@@ -1,0 +1,10 @@
+= window label "Attribute: Type"
++ header label "Attribute: Type"
++ subheader label "Description"
++ text label "The type attribute is used to show an alternative version of a widget."
++ subheader label "Syntax"
++ code label "type <type>"
++ list id arguments
++ text in arguments label "type: The type can be regular or password"
++ subheader label "Example"
++ code label "+ field label \"Passowrd!\" type \"password\""
