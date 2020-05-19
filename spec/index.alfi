@@ -6,8 +6,8 @@
 + subheader in listing label "Attributes"
 + list id commandlist in listing
 + anchor in commandlist label "Comment (#)" link "command-comment.alfi" "text/alfi"
-+ anchor in commandlist label "Add (+)" link "command-add.alfi" "text/alfi"
-+ anchor in commandlist label "Remove (-)" link "command-remove.alfi" "text/alfi"
++ anchor in commandlist label "Insert (+)" link "command-insert.alfi" "text/alfi"
++ anchor in commandlist label "Delete (-)" link "command-delete.alfi" "text/alfi"
 + anchor in commandlist label "Update (=)" link "command-update.alfi" "text/alfi"
 + list id widgetlist in listing
 + anchor in widgetlist label "Anchor" link "widget-anchor.alfi" "text/alfi"

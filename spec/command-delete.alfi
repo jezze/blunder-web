@@ -1,0 +1,8 @@
+= window label "Command: Delete (-)"
++ header label "Command: Delete (-)"
++ subheader label "Description"
++ text label "Delete (-) will remove a widget from your page. In order to be able to remove a widget the widget needs to have an id attribute set."
++ subheader label "Syntax"
++ code label "- <widget-id>"
++ subheader label "Examples"
++ code label "+ text id mytext label \"Hello World!\"\n- mytext"
