@@ -1,0 +1,36 @@
+= window label "Hacker News"
++ header label "Hacker News"
++ text label "new | past | comments | ask | show | jobs | submit | login"
++ table id story1 grid "01:11"
++ subheader in story1 label "1."
++ subheader in story1 label "New York Times phasing out all 3rd-party advertising data (axios.com)"
++ text in story1
++ text in story1 label "342 points by jezze 5 hours ago | hide | 227 comments"
++ subheader in story1 label "2."
++ subheader in story1 label "Notion for everyone (notion.so)"
++ text in story1
++ text in story1 label "342 points by jezze 5 hours ago | hide | 227 comments"
++ subheader in story1 label "3."
++ subheader in story1 label "Simple Personal Finance Tracking with GnuCash (csun.io)"
++ text in story1
++ text in story1 label "342 points by jezze 5 hours ago | hide | 227 comments"
++ subheader in story1 label "4."
++ subheader in story1 label "Microsoft announces Lists, a new Airtable-like app (microsoft.com)"
++ text in story1
++ text in story1 label "342 points by jezze 5 hours ago | hide | 227 comments"
++ subheader in story1 label "5."
++ subheader in story1 label "A Google Cloud support engineer solved a tough DNS case (cloud.google.com)"
++ text in story1
++ text in story1 label "342 points by jezze 5 hours ago | hide | 227 comments"
++ subheader in story1 label "6."
++ subheader in story1 label "Blogging is not dead (garron.blog)"
++ text in story1
++ text in story1 label "342 points by jezze 5 hours ago | hide | 227 comments"
++ subheader in story1 label "7."
++ subheader in story1 label "Caper (YC W16) AI self-checkout cart, is hiring software engineer (recruiterflow.com)"
++ text in story1
++ text in story1 label "342 points by jezze 5 hours ago | hide | 227 comments"
++ subheader in story1 label "8."
++ subheader in story1 label "When SimCity Got Serious: Story of Maxis Business Simulations and SimRefinery (obscuritory.com)"
++ text in story1
++ text in story1 label "342 points by jezze 5 hours ago | hide | 227 comments"

@@ -24,7 +24,7 @@
 + text in mockuptable label "Mockup of twitter.com"
 + anchor in mockuptable label "Wikipedia" link "mockups/wikipedia.alfi" "text/alfi"
 + text in mockuptable label "Mockup of wikipedia.org"
-+ anchor in mockuptable label "Hacker News" link "mockups/hackernews.alfi" "text/alfi"
++ anchor in mockuptable label "Hacker News" link "mockups/hn.alfi" "text/alfi"
 + text in mockuptable label "Mockup of news.ycombinator.com"
 + anchor in mockuptable label "Reddit" link "mockups/reddit.alfi" "text/alfi"
 + text in mockuptable label "Mockup of reddit.com"
