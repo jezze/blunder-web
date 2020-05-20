@@ -3,8 +3,8 @@
 + subheader label "Description"
 + text label "A regular image."
 + subheader label "Example"
-+ code label "+ image link \"http://www.blunder.se/images/lion-3576045_1920.jpg\" \"image/jpeg\""
-+ image link "http://www.blunder.se/images/lion-3576045_1920.jpg" "image/jpeg"
++ code label "+ image link \"../images/lion-3576045_1920.jpg\" \"image/jpeg\""
++ image link "../images/lion-3576045_1920.jpg" "image/jpeg"
 + subheader label "Attributes"
 + list id attributes
 + anchor in attributes label "Id" link "attribute-id.alfi" "text/alfi"
