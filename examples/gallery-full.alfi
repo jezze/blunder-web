@@ -1,4 +1,4 @@
 = window label "Demo: Gallery"
 + header label "Demo: Gallery"
 + text label "A photo of a lion."
-+ image link "../images/lion-3576045_1920.jpg" "image/jpeg"
++ image link "../images/lion-3576045_1920.jpg"
