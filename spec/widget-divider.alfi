@@ -1,13 +1,13 @@
 = window label "Widget: Divider"
 + header label "Widget: Divider"
-+ subheader label "Description"
++ header2 label "Description"
 + text label "Draws a horizontal rule"
-+ subheader label "Example"
++ header2 label "Example"
 + code label "+ divider"
 + divider
 + code label "+ divider label \"The End\""
 + divider label "The End"
-+ subheader label "Attributes"
++ header2 label "Attributes"
 + list id attributes
 + anchor in attributes label "Id" link "attribute-id.alfi"
 + anchor in attributes label "In" link "attribute-in.alfi"

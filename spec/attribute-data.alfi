@@ -1,10 +1,10 @@
 = window label "Attribute: Data"
 + header label "Attribute: Data"
-+ subheader label "Description"
++ header2 label "Description"
 + text label "The data attribute is the information that will be sent during a request. It is typically what the user enters in a form field."
-+ subheader label "Syntax"
++ header2 label "Syntax"
 + code label "data <content>"
 + list id arguments
 + text in arguments label "content: The actual content of the data"
-+ subheader label "Example"
++ header2 label "Example"
 + code label "+ field id \"country\" label \"Country\" data \"Sweden\""

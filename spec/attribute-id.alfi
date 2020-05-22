@@ -1,10 +1,10 @@
 = window label "Attribute: Id"
 + header label "Attribute: Id"
-+ subheader label "Description"
++ header2 label "Description"
 + text label "The id attribute gives the widget a unique identifier which can later be referenced."
-+ subheader label "Syntax"
++ header2 label "Syntax"
 + code label "id <name>"
 + list id arguments
 + text in arguments label "name: The name of the id"
-+ subheader label "Example"
++ header2 label "Example"
 + code label "+ text id \"mytext\"\n- mytext"

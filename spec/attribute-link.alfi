@@ -1,10 +1,10 @@
 = window label "Attribute: Link"
 + header label "Attribute: Link"
-+ subheader label "Description"
++ header2 label "Description"
 + text label "The link attribute is used to reference an external resource."
-+ subheader label "Syntax"
++ header2 label "Syntax"
 + code label "link <url>"
 + list id arguments
 + text in arguments label "url: The URL to the resource"
-+ subheader label "Example"
++ header2 label "Example"
 + code label "+ anchor label \"Click me!\" link \"http://www.blunder.se/\""

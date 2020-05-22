@@ -1,10 +1,10 @@
 = window label "Attribute: Mode"
 + header label "Attribute: Mode"
-+ subheader label "Description"
++ header2 label "Description"
 + text label "The mode attribute is used to describe the state of a widget."
-+ subheader label "Syntax"
++ header2 label "Syntax"
 + code label "mode <state>"
 + list id arguments
 + text in arguments label "state: The state of can either be off, on or disabled"
-+ subheader label "Example"
++ header2 label "Example"
 + code label "+ toggle label \"Lights!\" mode \"on\""

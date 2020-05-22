@@ -1,10 +1,10 @@
 = window label "Attribute: Icon"
 + header label "Attribute: Icon"
-+ subheader label "Description"
++ header2 label "Description"
 + text label "The icon attribute is used to add an icon to a widget."
-+ subheader label "Syntax"
++ header2 label "Syntax"
 + code label "icon <name>"
 + list id arguments
 + text in arguments label "name: The name of the icon."
-+ subheader label "Example"
++ header2 label "Example"
 + code label "+ button label \"Search\" icon \"search\""

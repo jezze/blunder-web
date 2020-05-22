@@ -1,10 +1,10 @@
 = window label "Attribute: In"
 + header label "Attribute: In"
-+ subheader label "Description"
++ header2 label "Description"
 + text label "The in attribute is used to tell where the widget should be placed."
-+ subheader label "Syntax"
++ header2 label "Syntax"
 + code label "in <name>"
 + list id arguments
 + text in arguments label "name: The id of the parent widget"
-+ subheader label "Example"
++ header2 label "Example"
 + code label "+ list id \"mylist\"\n+ text in \"mylist\" label \"Item 1\""

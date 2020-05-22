@@ -1,10 +1,10 @@
 = window label "Attribute: Label"
 + header label "Attribute: Label"
-+ subheader label "Description"
++ header2 label "Description"
 + text label "The label attribute is used to give names to many widgets."
-+ subheader label "Syntax"
++ header2 label "Syntax"
 + code label "label <content>"
 + list id arguments
 + text in arguments label "content: The text of the label"
-+ subheader label "Example"
++ header2 label "Example"
 + code label "+ text label \"Hello World!\""
