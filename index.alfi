@@ -30,6 +30,8 @@
 + text in mockuptable label "Mockup of news.ycombinator.com"
 + anchor in mockuptable label "Reddit" link "mockups/reddit.alfi"
 + text in mockuptable label "Mockup of reddit.com"
++ anchor in mockuptable label "Reddit (oldstyle)" link "mockups/reddit-old.alfi"
++ text in mockuptable label "Mockup of reddit.com"
 + anchor in mockuptable label "MFW" link "mockups/mfw.alfi"
 + text in mockuptable label "Mockup of motherfuckingwebsite.com"
 + anchor in mockuptable label "BMFW" link "mockups/bmfw.alfi"
