@@ -1,0 +1,61 @@
+= window label "Title of video"
+
++ table id top grid "04:08"
++ header in top label "YouTube"
++ field in top label "Search"
+
++ table id body grid "08:04"
++ table id front in body
++ image in front link "../images/ara-3601194_1920.jpg" "image/jpeg"
++ subheader in front label "Title of video"
++ text in front label "120 views | Jan 12 2020"
++ divider in front
+
++ table id side in body
++ subheader in side label "Up next"
+
++ table id side2 in side grid "02"
++ image in side2 link "../images/ara-3601194_1920.jpg" "image/jpeg"
++ table id side21 in side2
++ text in side21 label "Video title"
++ text in side21 label "Channelname"
++ text in side21 label "12k views | 2 years ago"
+
++ divider in side
+
++ table id side3 in side grid "02"
++ image in side3 link "../images/ara-3601194_1920.jpg" "image/jpeg"
++ table id side31 in side3
++ text in side31 label "Video title"
++ text in side31 label "Channelname"
++ text in side31 label "12k views | 2 years ago"
+
++ image in side3 link "../images/ara-3601194_1920.jpg" "image/jpeg"
++ table id side32 in side3
++ text in side32 label "Video title"
++ text in side32 label "Channelname"
++ text in side32 label "12k views | 2 years ago"
+
++ image in side3 link "../images/ara-3601194_1920.jpg" "image/jpeg"
++ table id side33 in side3
++ text in side33 label "Video title"
++ text in side33 label "Channelname"
++ text in side33 label "12k views | 2 years ago"
+
++ image in side3 link "../images/ara-3601194_1920.jpg" "image/jpeg"
++ table id side34 in side3
++ text in side34 label "Video title"
++ text in side34 label "Channelname"
++ text in side34 label "12k views | 2 years ago"
+
++ image in side3 link "../images/ara-3601194_1920.jpg" "image/jpeg"
++ table id side35 in side3
++ text in side35 label "Video title"
++ text in side35 label "Channelname"
++ text in side35 label "12k views | 2 years ago"
+
++ image in side3 link "../images/ara-3601194_1920.jpg" "image/jpeg"
++ table id side36 in side3
++ text in side36 label "Video title"
++ text in side36 label "Channelname"
++ text in side36 label "12k views | 2 years ago"
