@@ -3,8 +3,8 @@
 + subheader label "Description"
 + text label "The button is a regular button."
 + subheader label "Example"
-+ code label "+ button label \"Click me!\" link \"http://www.blunder.se/\" \"text/alfi\""
-+ button label "Click me!" link "http://www.blunder.se/" "text/alfi"
++ code label "+ button label \"Click me!\" icon \"check\" link \"http://www.blunder.se/\" \"text/alfi\""
++ button label "Click me!" icon "check" link "http://www.blunder.se/" "text/alfi"
 + subheader label "Attributes"
 + list id attributes
 + anchor in attributes label "Icon" link "attribute-icon.alfi" "text/alfi"
