@@ -16,7 +16,7 @@
 + text in info label "120 views | Jan 12 2020"
 + text in info label "U 2.5k | D 72 | Share | Save"
 + divider in front
-+ text in front label "321 comments"
++ header3 in front label "321 comments"
 
 + table id comments in front grid "01:07"
 + image in comments link "../images/ara-3601194_1920.jpg"
