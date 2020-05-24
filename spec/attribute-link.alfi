@@ -7,4 +7,5 @@
 + list id arguments
 + text in arguments label "url: The URL to the resource"
 + header2 label "Example"
-+ code label "+ anchor label \"Click me!\" link \"http://www.blunder.se/\""
++ code label "+ image link \"../images/lion-3576045_1920.jpg\""
++ image link "../images/lion-3576045_1920.jpg"

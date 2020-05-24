@@ -1,0 +1,11 @@
+= window label "Attribute: Onclick"
++ header label "Attribute: onclick"
++ header2 label "Description"
++ text label "The onclick attribute is what gets triggered when something gets clicked."
++ header2 label "Syntax"
++ code label "onclick <type> <data>"
++ list id arguments
++ text in arguments label "type: The type of event to get triggered"
++ text in arguments label "data: The data associated with the event"
++ header2 label "Example"
++ code label "+ anchor label \"Click me!\" onclick \"get\" \"http://www.blunder.se/\""

@@ -5,7 +5,7 @@
 + header2 label "Make your own ALFI website"
 + text label "This is easy and something almost anyone can do. Read the getting started page."
 + list id list1
-+ anchor in list1 label "Getting started" link "getting-started.alfi"
++ anchor in list1 label "Getting started" onclick "get" "getting-started.alfi"
 + text label "Once you have created your website please let me know where I can find it. Send an email to jens.nyberg@gmail.com and provide a link. If it's cool I might feature it on the website!"
 + divider
 + header2 label "Suggest widgets and attributes"

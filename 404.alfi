@@ -1,4 +1,4 @@
 = window label "Page Missing"
 + header label "Page Missing"
 + text label "Sorry this page seems to be missing."
-+ anchor label "Back" link "/"
++ anchor label "Back" onclick "get" "/"

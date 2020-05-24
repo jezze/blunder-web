@@ -6,4 +6,4 @@
 + code label "= window label \"This is the window title\""
 + header2 label "Attributes"
 + list id attributes
-+ anchor in attributes label "Label" link "attribute-label.alfi"
++ anchor in attributes label "Label" onclick "get" "attribute-label.alfi"

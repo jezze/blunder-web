@@ -9,6 +9,6 @@
 + text in mytable label "Second text"
 + header2 label "Attributes"
 + list id attributes
-+ anchor in attributes label "Grid" link "attribute-grid.alfi"
-+ anchor in attributes label "Id" link "attribute-id.alfi"
-+ anchor in attributes label "In" link "attribute-in.alfi"
++ anchor in attributes label "Grid" onclick "get" "attribute-grid.alfi"
++ anchor in attributes label "Id" onclick "get" "attribute-id.alfi"
++ anchor in attributes label "In" onclick "get" "attribute-in.alfi"

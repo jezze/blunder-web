@@ -10,8 +10,8 @@
 + choice in myselect label "Sweden"
 + header2 label "Attributes"
 + list id attributes
-+ anchor in attributes label "Data" link "attribute-data.alfi"
-+ anchor in attributes label "Id" link "attribute-id.alfi"
-+ anchor in attributes label "In" link "attribute-in.alfi"
-+ anchor in attributes label "Label" link "attribute-label.alfi"
-+ anchor in attributes label "Range" link "attribute-range.alfi"
++ anchor in attributes label "Data" onclick "get" "attribute-data.alfi"
++ anchor in attributes label "Id" onclick "get" "attribute-id.alfi"
++ anchor in attributes label "In" onclick "get" "attribute-in.alfi"
++ anchor in attributes label "Label" onclick "get" "attribute-label.alfi"
++ anchor in attributes label "Range" onclick "get" "attribute-range.alfi"

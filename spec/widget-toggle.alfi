@@ -9,7 +9,7 @@
 + toggle label "Click me too!" mode "on"
 + header2 label "Attributes"
 + list id attributes
-+ anchor in attributes label "Id" link "attribute-id.alfi"
-+ anchor in attributes label "In" link "attribute-in.alfi"
-+ anchor in attributes label "Label" link "attribute-label.alfi"
-+ anchor in attributes label "Mode" link "attribute-mode.alfi"
++ anchor in attributes label "Id" onclick "get" "attribute-id.alfi"
++ anchor in attributes label "In" onclick "get" "attribute-in.alfi"
++ anchor in attributes label "Label" onclick "get" "attribute-label.alfi"
++ anchor in attributes label "Mode" onclick "get" "attribute-mode.alfi"
