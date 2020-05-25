@@ -32,5 +32,7 @@
 + text label "What you might have noticed was that the image became very big and filled out the entire width of the page. This is actually intentional. ALFI was designed to work on devices with very different resolutions and for this to work properly you can not set the size of your image directly, or the size of any other widget, because that would break the layout for some. There are however ways to divide the page in sections and this is how you can make your images smaller. We will talk about this later."
 + header2 label "Part 3: Tables"
 + text label "TODO"
-+ header2 label "Part 4: Events"
++ header2 label "Part 4: Forms"
++ text label "TODO"
++ header2 label "Part 5: Events"
 + text label "TODO"
