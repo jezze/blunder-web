@@ -8,28 +8,28 @@
 + text label "Let's begin."
 + header2 label "Part 1: Headers and text"
 + text label "To start off we are going to make a very simple website with a header and some text. Let's start by adding a header."
-+ divider
++ divider label "Example 01"
 + code label "+ header label \"My first website!\""
-+ anchor label "Show page"
++ anchor label "Show page" onclick "get" "example01.alfi"
 + divider
 + text label "What you see here is whats called a statement. A statement is described by a single row of text. There can't be two statements on the same row."
 + text label "A statement starts with something called an instruction, which in this case is represented by the + symbol. This symbol is the insert instruction and when we use it we intend to add something to the page. There are other instruction you can use that can remove or modify things as well and they will be discussed later in this tutorial."
 + text label "The second word in this statement is the widget type. This describes what type of widget we want to add. In this statement we said we wanted to add a header."
 + text label "After the widget type comes a key and an associated value. This is what is called an attribute. Each widget has a unique set of attributes but many widgets share attributes with other ones. In this case we are setting the label attribute of the header. The label attribute just has one value associated with it and that is the content of the label. The label is the actual text that will be displayed on the page."
 + text label "Next we can add some text."
-+ divider
++ divider label "Example 02"
 + code label "+ text label \"Hello world!\""
-+ anchor label "Show page"
++ anchor label "Show page" onclick "get" "example02.alfi"
 + divider
 + text label "As you can see this is very similar to adding a header. The only difference is that we changed the widget type from header to text."
 + header2 label "Part 2: Images"
 + text label "Next we are going to add an image."
-+ divider
-+ code label "+ image link \"myimage.jpg\""
-+ anchor label "Show page"
++ divider label "Example 03"
++ code label "+ image link \"http://www.blunder.se/images/pug-690566_1920.jpg\""
++ anchor label "Show page" onclick "get" "example03.alfi"
 + divider
 + text label "The link attribute describes where the source of the image can be found."
-+ text label "What you might have noticed was that the image became very big and filled out the entire width of the page. This is actually intentional. ALFI was designed to work on devices with very different resolutions and for this to work properly you can not set the size of your image directly, or the size of any other widget, because that would break the layout for some. There are however ways to divide the page in sections and this is how you can make your images smaller. We will talk about this later."
++ text label "What you might have noticed was that the image became very big and filled out the entire width of the page. This is intentional and it wouldn't have mattered how big the image was. ALFI was designed to work on devices with very different resolutions and for this to work properly you can not set the size of your image directly, or the size of any other widget, because that would break the layout in some cases. There are however ways to divide the page into sections and this is one way you can make your images smaller. We will talk about this later."
 + header2 label "Part 3: Tables"
 + text label "TODO"
 + header2 label "Part 4: Forms"

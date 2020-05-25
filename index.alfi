@@ -4,7 +4,7 @@
 + header2 label "About ALFI"
 + anchor label "A short introduction" onclick "get" "intro.alfi"
 + text label "This will explain what ALFI is and what prompted it's development."
-+ anchor label "Getting started" onclick "get" "getting-started.alfi"
++ anchor label "Getting started" onclick "get" "tutorials/getting-started/index.alfi"
 + text label "Learn how to write your own ALFI website by following this simple step-by-step guide."
 + anchor label "Language specification" onclick "get" "spec/index.alfi"
 + text label "The language specification for ALFI 1.0. A must have reference."
