@@ -41,6 +41,7 @@
 + anchor in attributelist label "Link" onclick "get" "attribute-link.alfi"
 + anchor in attributelist label "Mode" onclick "get" "attribute-mode.alfi"
 + anchor in attributelist label "Onclick" onclick "get" "attribute-onclick.alfi"
++ anchor in attributelist label "Onlinebreak" onclick "get" "attribute-onlinebreak.alfi"
 + anchor in attributelist label "Range" onclick "get" "attribute-range.alfi"
 + anchor in attributelist label "Target" onclick "get" "attribute-target.alfi"
 + anchor in attributelist label "Type" onclick "get" "attribute-type.alfi"

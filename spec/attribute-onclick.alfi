@@ -1,5 +1,5 @@
 = window label "Attribute: Onclick"
-+ header label "Attribute: onclick"
++ header label "Attribute: Onclick"
 + header2 label "Description"
 + text label "The onclick attribute is what gets triggered when something gets clicked."
 + header2 label "Syntax"
