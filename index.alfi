@@ -12,6 +12,11 @@
 # S*S  SSY      YSSP    YSSP~YSSY    S*S    SSS  SSS~YSSY      YSSP  S*S    SSS
 # SP                                 SP                              SP        
 # Y                                  Y                               Y         
+#
+# This is an ALFI website. You need to use the NAVI browser.
+#
+# Get NAVI from here: github.com/jezze/alfi
+#
 
 = window label "blunder.se"
 + header label "blunder.se"
