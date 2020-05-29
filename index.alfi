@@ -1,3 +1,18 @@
+#  .S_SSSs    S.       .S       S.    .S_sSSs     .S_sSSs      sSSs   .S_sSSs  
+# .SS~SSSSS   SS.     .SS       SS.  .SS~YS%%b   .SS~YS%%b    d%%SP  .SS~YS%%b 
+# S%S   SSSS  S%S     S%S       S%S  S%S   `S%b  S%S   `S%b  d%S'    S%S   `S%b
+# S%S    S%S  S%S     S%S       S%S  S%S    S%S  S%S    S%S  S%S     S%S    S%S
+# S%S SSSS%P  S&S     S&S       S&S  S%S    S&S  S%S    S&S  S&S     S%S    d*S
+# S&S  SSSY   S&S     S&S       S&S  S&S    S&S  S&S    S&S  S&S_Ss  S&S   .S*S
+# S&S    S&S  S&S     S&S       S&S  S&S    S&S  S&S    S&S  S&S~SP  S&S_sdSSS 
+# S&S    S&S  S&S     S&S       S&S  S&S    S&S  S&S    S&S  S&S     S&S~YSY%b 
+# S*S    S&S  S*b     S*b       d*S  S*S    S*S  S*S    d*S  S*b     S*S   `S%b
+# S*S    S*S  S*S.    S*S.     .S*S  S*S    S*S  S*S   .S*S  S*S.    S*S    S%S
+# S*S SSSSP    SSSbs   SSSbs_sdSSS   S*S    S*S  S*S_sdSSS    SSSbs  S*S    S&S
+# S*S  SSY      YSSP    YSSP~YSSY    S*S    SSS  SSS~YSSY      YSSP  S*S    SSS
+# SP                                 SP                              SP        
+# Y                                  Y                               Y         
+
 = window label "blunder.se"
 + header label "blunder.se"
 + text label "This is the first ever website built using ALFI. Learn more about ALFI below."
