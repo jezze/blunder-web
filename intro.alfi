@@ -13,7 +13,7 @@
 + header2 label "What are the basic building blocks of a website?"
 + text label "Almost all modern websites use HTML, JavaScript and CSS. What is the reason we need to use three different languages? Well roughly speaking..."
 + list id list2
-+ text in list2 label "HTML by itself cannot dynamically modify itself. It’s just static markup. Therefore you had to have something like JavaScript to do this for you."
++ text in list2 label "HTML cannot dynamically modify itself. It’s just static markup. Therefore you had to have something like JavaScript to do this for you."
 + text in list2 label "It was messy having to define the same styling for each element. You wanted to be able to define your styling in just one place and then be able to use it throughout all of your pages. This is what CSS solved."
 + text label "So both of these additions were ad-hoc:ed onto HTML a long time ago and we are still using them today. Don’t be mistaken, these technologies together have allowed experienced web developers to create the most wonderful websites. They have been able to finetune every little detail from top to bottom. But for every experienced developer there are at least ten less experienced ones. For them, creating a properly working website is just too difficult, and it really shouldn’t have to be."
 + header2 label "Reducing complexity"
